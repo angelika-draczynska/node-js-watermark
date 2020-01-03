@@ -1,0 +1,11 @@
+{
+  "name": "node-js-watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/angelikadraczynska/node-js-watermark.git",
+  "author": "Angelika Draczynska <nayrissa@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
